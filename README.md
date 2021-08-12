@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Thomas032
-- 👀 I’m interested in python, arduino, micropython
+- 👀 I’m interested in python, arduino, micropython, c# and webdevelopment
 - 🌱 I’m currently learning python and c#
-- 💞️ I’m looking to collaborate on python projects
-- 📫 How to reach me : do not reach me 
+- 💞️ I’m looking to collaborate on python and c# projects
 
 <!---
 Thomas032/Thomas032 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
