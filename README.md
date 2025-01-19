@@ -1,9 +1,39 @@
-- 👋 Hi, I’m @Thomas032
-- 👀 I’m interested in python, arduino, micropython, c# and webdevelopment
-- 🌱 I’m currently learning python and c#
-- 💞️ I’m looking to collaborate on python and c# projects
+# 👋 Hi, I'm Thomas032
 
-<!---
-Thomas032/Thomas032 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Software Engineering student with a passion for full-stack development, IoT, and entrepreneurship.
+
+## 🚀 About Me
+- 🎓 Studying Software Engineering
+- 💼 Co-founder & Full Stack Developer at NQ Studios
+- 🏎️ Electronics Department Member at a Formula Student Team
+- 🌱 Always learning and pushing boundaries in technology
+
+## 🛠️ Technical Stack
+- **Languages:** PHP, C, Python, JavaScript, C#, Java
+- **Frameworks/Platforms:** 
+  - WordPress
+  - Magento 2
+  - NextJS
+  - Docker
+  - Linux
+- **IoT:** Raspberry Pi, Arduino, Embedded systems
+- **Development Tools:** MATLAB, Git
+
+## 🎯 Current Focus
+- Developing live telemetry system with Node.JS and C
+- Custom software development solutions
+- NextJS app creation
+
+## 🎓 Education & Certifications
+- **Harvard CS50 Series Graduate:**
+  - CS50: Introduction to Computer Science
+  - CS50P: Programming with Python
+  - CS50W: Web Programming
+  - CS50AI: Artificial Intelligence with Python
+- **CCNA Certified:**
+  - Introduction to Networks
+  - Switching, Routing, and Wireless Essentials
+- ECDL Standard Certificate
+
+---
+*"Committed to transforming theoretical knowledge into practical innovations."*
